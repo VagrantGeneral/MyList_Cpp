@@ -1,1 +1,3 @@
-# MyList#LinkList#ListStack实现
+# MyList
+LinkList实现
+ListStack实现
